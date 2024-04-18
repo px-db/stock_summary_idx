@@ -1,0 +1,131 @@
+Kode,Sektor,Sub-Sektor,Industri,Sub-Industri
+A111,Energy,"Oil, Gas & Coal",Oil & Gas,Oil & Gas Production & Refinery
+A112,Energy,"Oil, Gas & Coal",Oil & Gas,Oil & Gas Storage & Distribution
+A121,Energy,"Oil, Gas & Coal",Coal,Coal Production
+A122,Energy,"Oil, Gas & Coal",Coal,Coal Distribution
+A131,Energy,"Oil, Gas & Coal","Oil, Gas & Coal Supports",Oil & Gas Drilling Service
+A132,Energy,"Oil, Gas & Coal","Oil, Gas & Coal Supports","Oil, Gas & Coal Equipment & Services"
+A211,Energy,Alternative Energy,Alternative Energy Equipment,Alternative Energy Equipment
+A221,Energy,Alternative Energy,Alternative Fuels,Alternative Fuels
+B111,Basic Materials,Basic Materials,Chemicals,Basic Chemicals
+B112,Basic Materials,Basic Materials,Chemicals,Agricultural Chemicals
+B113,Basic Materials,Basic Materials,Chemicals,Specialty Chemicals
+B121,Basic Materials,Basic Materials,Construction Materials,Construction Materials
+B131,Basic Materials,Basic Materials,Containers & Packaging,Containers & Packaging
+B141,Basic Materials,Basic Materials,Metals & Minerals,Aluminum
+B142,Basic Materials,Basic Materials,Metals & Minerals,Copper
+B143,Basic Materials,Basic Materials,Metals & Minerals,Gold
+B144,Basic Materials,Basic Materials,Metals & Minerals,Iron & Steel
+B145,Basic Materials,Basic Materials,Metals & Minerals,Precious Metals & Minerals
+B146,Basic Materials,Basic Materials,Metals & Minerals,Diversified Metals & Minerals
+B147,Basic Materials,Basic Materials,Metals & Minerals,Mining Equipment & Services
+B151,Basic Materials,Basic Materials,Forestry & Paper,Timber
+B152,Basic Materials,Basic Materials,Forestry & Paper,Paper
+B153,Basic Materials,Basic Materials,Forestry & Paper,Diversified Forest
+C111,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense
+C121,Industrials,Industrial Goods,Building Products & Fixtures,Building Products & Fixtures
+C131,Industrials,Industrial Goods,Electrical,Electrical Components & Equipment
+C132,Industrials,Industrial Goods,Electrical,Heavy Electrical Equipment
+C141,Industrials,Industrial Goods,Machinery,Construction Machinery & Heavy Vehicles
+C142,Industrials,Industrial Goods,Machinery,Agricultural & Farm Machinery
+C143,Industrials,Industrial Goods,Machinery,Industrial Machinery & Components
+C211,Industrials,Industrial Services,Diversified Industrial Trading,Diversified Industrial Trading
+C221,Industrials,Industrial Services,Commercial Services,Commercial Printing
+C222,Industrials,Industrial Services,Commercial Services,Environmental & Facilities Services
+C223,Industrials,Industrial Services,Commercial Services,Office Supplies
+C224,Industrials,Industrial Services,Commercial Services,Business Support Services
+C231,Industrials,Industrial Services,Professional Services,Human Resource & Employment Services
+C232,Industrials,Industrial Services,Professional Services,Research & Consulting Services
+C311,Industrials,Multi-sector Holdings,Multi-sector Holdings,Multi-sector Holdings
+D111,Consumer Non-Cyclicals,Food & Staples Retailing,Food & Staples Retailing,Drug Retail & Distributors
+D112,Consumer Non-Cyclicals,Food & Staples Retailing,Food & Staples Retailing,Food Retail & Distributors
+D113,Consumer Non-Cyclicals,Food & Staples Retailing,Food & Staples Retailing,Supermarkets & Convenience Store
+D211,Consumer Non-Cyclicals,Food & Beverage,Beverages,Liquors
+D212,Consumer Non-Cyclicals,Food & Beverage,Beverages,Soft Drinks
+D221,Consumer Non-Cyclicals,Food & Beverage,Processed Foods,Dairy Products
+D222,Consumer Non-Cyclicals,Food & Beverage,Processed Foods,Processed Foods
+D231,Consumer Non-Cyclicals,Food & Beverage,Agricultural Products,"Fish, Meat, & Poultry"
+D232,Consumer Non-Cyclicals,Food & Beverage,Agricultural Products,Plantations & Crops
+D311,Consumer Non-Cyclicals,Tobacco,Tobacco,Tobacco
+D411,Consumer Non-Cyclicals,Nondurable Household Products,Household Products,Household Products
+D421,Consumer Non-Cyclicals,Nondurable Household Products,Household Products,Personal Care Products
+E111,Consumer Cyclicals,Automobiles & Components,Auto Components,Auto Parts & Equipment
+E112,Consumer Cyclicals,Automobiles & Components,Auto Components,Tires
+E121,Consumer Cyclicals,Automobiles & Components,Automobiles,Car Manufacturers
+E122,Consumer Cyclicals,Automobiles & Components,Automobiles,Motorcycle Manufacturers
+E211,Consumer Cyclicals,Household Goods,Household Goods,Home Furnishings
+E212,Consumer Cyclicals,Household Goods,Household Goods,Household Appliances
+E213,Consumer Cyclicals,Household Goods,Household Goods,Housewares & Specialties
+E311,Consumer Cyclicals,Leisure Goods,Consumer Electronics,Consumer Electronics
+E321,Consumer Cyclicals,Leisure Goods,Sport Equipment & Hobbies Goods,Sport Equipment & Hobbies Goods
+E411,Consumer Cyclicals,Apparel & Luxury Goods,Apparel & Luxury Goods,"Clothing, Accessories & Bags"
+E412,Consumer Cyclicals,Apparel & Luxury Goods,Apparel & Luxury Goods,Footwear
+E413,Consumer Cyclicals,Apparel & Luxury Goods,Apparel & Luxury Goods,Textiles
+E511,Consumer Cyclicals,Consumer Services,Tourism & Recreation,Gaming Venue
+E512,Consumer Cyclicals,Consumer Services,Tourism & Recreation,"Hotels, Resorts & Cruise Lines"
+E513,Consumer Cyclicals,Consumer Services,Tourism & Recreation,Travel Agencies
+E514,Consumer Cyclicals,Consumer Services,Tourism & Recreation,Recreational & Sports Facilities
+E515,Consumer Cyclicals,Consumer Services,Tourism & Recreation,Restaurants
+E521,Consumer Cyclicals,Consumer Services,Education & Support Services,Education Services
+E522,Consumer Cyclicals,Consumer Services,Education & Support Services,Consumer Support Services
+E611,Consumer Cyclicals,Media & Entertainment,Media,Advertising
+E612,Consumer Cyclicals,Media & Entertainment,Media,Broadcasting
+E613,Consumer Cyclicals,Media & Entertainment,Media,Cable & Satellite
+E614,Consumer Cyclicals,Media & Entertainment,Media,Consumer Publishing
+E621,Consumer Cyclicals,Media & Entertainment,Entertainment & Movie Production,Entertainment & Movie Production
+E711,Consumer Cyclicals,Retailing,Consumer Distributors,Consumer Distributors
+E721,Consumer Cyclicals,Retailing,Internet & Homeshop Retail,Internet & Homeshop Retail
+E731,Consumer Cyclicals,Retailing,Department Stores,Department Stores
+E741,Consumer Cyclicals,Retailing,Specialty Retail,Apparel & Textile Retail
+E742,Consumer Cyclicals,Retailing,Specialty Retail,Electronics Retail
+E743,Consumer Cyclicals,Retailing,Specialty Retail,Home Improvement Retail
+E744,Consumer Cyclicals,Retailing,Specialty Retail,Specialty Stores
+E745,Consumer Cyclicals,Retailing,Specialty Retail,Automotive Retail
+F111,Healthcare,Healthcare Equipment & Providers,Healthcare Equipment & Supplies,Healthcare Equipment
+F112,Healthcare,Healthcare Equipment & Providers,Healthcare Equipment & Supplies,Healthcare Supplies & Distributions
+F121,Healthcare,Healthcare Equipment & Providers,Healthcare Providers,Healthcare Providers
+F211,Healthcare,Pharmaceuticals & Health Care Research,Pharmaceuticals,Pharmaceuticals
+F221,Healthcare,Pharmaceuticals & Health Care Research,Healthcare Research,Healthcare Research
+G111,Financials,Banks,Banks,Banks
+G211,Financials,Financing Service,Consumer Financing,Consumer Financing
+G221,Financials,Financing Service,Business Financing,Venture Capital
+G222,Financials,Financing Service,Business Financing,Specialized Business Financing
+G311,Financials,Investment Service,Investment Services,Investment Management
+G312,Financials,Investment Service,Investment Services,Investment Banking & Brokerage Services
+G313,Financials,Investment Service,Investment Services,Market Operators
+G314,Financials,Investment Service,Investment Services,Investment Service Support
+G411,Financials,Insurance,Insurance,Insurance Brokers
+G412,Financials,Insurance,Insurance,General Insurance
+G413,Financials,Insurance,Insurance,Life Insurance
+G414,Financials,Insurance,Insurance,Reinsurance
+G511,Financials,Holding & Investment Companies,Holding & Investment Companies,Financial Holdings
+G512,Financials,Holding & Investment Companies,Holding & Investment Companies,Investment Companies
+H111,Properties & Real Estate,Properties & Real Estate,Real Estate Management & Development,Real Estate Development & Management
+H112,Properties & Real Estate,Properties & Real Estate,Real Estate Management & Development,Real Estate Services
+I111,Technology,Software & IT Services,Online Applications & Services,Online Applications & Services
+I121,Technology,Software & IT Services,IT Services & Consulting,IT Services & Consulting
+I131,Technology,Software & IT Services,Software,Software
+I211,Technology,Technology Hardware & Equipment,Networking Equipment,Networking Equipment
+I221,Technology,Technology Hardware & Equipment,Computer Hardware,Computer Hardware
+I231,Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Equipment & Instruments
+I232,Technology,Technology Hardware & Equipment,"Electronic Equipment, Instruments & Components",Electronic Components & Semiconductors
+J111,Infrastructures,Transportation Infrastructure,Transport Infrastructure Operator,Airport Operators
+J112,Infrastructures,Transportation Infrastructure,Transport Infrastructure Operator,Highways & Railtracks
+J113,Infrastructures,Transportation Infrastructure,Transport Infrastructure Operator,Marine Ports & Services
+J211,Infrastructures,Heavy Constructions & Civil Engineering,Heavy Constructions & Civil Engineering,Heavy Constructions & Civil Engineering
+J311,Infrastructures,Telecommunication,Telecommunication Service,Wired Telecommunication Service
+J312,Infrastructures,Telecommunication,Telecommunication Service,Integrated Telecommunication Service
+J321,Infrastructures,Telecommunication,Wireless Telecommunication Services,Wireless Telecommunication Services
+J411,Infrastructures,Utilities,Electric Utilities,Electric Utilities
+J421,Infrastructures,Utilities,Gas Utilities,Gas Utilities
+J431,Infrastructures,Utilities,Water Utilities,Water Utilities
+K111,Transportation & Logistic,Transportation,Airlines,Airlines
+K121,Transportation & Logistic,Transportation,Passenger Marine Transportation,Passenger Marine Transportation
+K131,Transportation & Logistic,Transportation,Passenger Land Transportation,Rail
+K132,Transportation & Logistic,Transportation,Passenger Land Transportation,Road Transportation
+K211,Transportation & Logistic,Logistics & Deliveries,Logistics & Deliveries,Logistics & Deliveries
+Z111,Listed Investment Product,Investment Trusts,Investment Trusts,Mutual Fund / ETFs
+Z112,Listed Investment Product,Investment Trusts,Investment Trusts,Real Estate Investment Trusts
+Z113,Listed Investment Product,Investment Trusts,Investment Trusts,Infrastructure Investment Trusts
+Z211,Listed Investment Product,Bonds,Bonds,Government Bonds
+Z212,Listed Investment Product,Bonds,Bonds,Corporate Bonds
